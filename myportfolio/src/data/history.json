@@ -1,0 +1,46 @@
+[
+  {
+    "role": "Graphic Designer",
+    "organisation": " NIELIT, Ropar",
+    "startDate": "August, 2024",
+    "endDate": "September, 2024",
+    "experiences": [
+      "Created and optimized digital graphics using Canva, Adobe, Figma.",
+      "Maintained cohesive, professional aesthetics across projects."
+    ],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Frontend Development Intern",
+    "organisation": " C-DAC, Mohali",
+    "startDate": "February, 2024",
+    "endDate": "August, 2024",
+    "experiences": [
+      "Developed web applications' front-end with React.js and Node.js.",
+      "Enhanced educational tech skills via Moodle."
+    ],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Web Development Intern",
+    "organisation": "Code Alpha",
+    "startDate": "August, 2023",
+    "endDate": "September, 2023",
+    "experiences": [
+      "Worked on front-end development, creating responsive, dynamic web pages.",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/netflix.png"
+  },
+  {
+    "role": "Web Design Intern",
+    "organisation": "Internship Studio",
+    "startDate": "July, 2023",
+    "endDate": "August, 2023",
+    "experiences": [
+      "Worked on web designing and acquired web design skills in layout, typography, and colors.",
+      "Developed prototypes, learning to create visually appealing, user-friendly interfaces."
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]

@@ -1,0 +1,94 @@
+@import "../../vars.css";
+
+.container {
+  color: var(--color-text);
+  margin-top: 25px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.title {
+  color: var(--color-text);
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 14px;
+}
+
+
+p {
+  font-size: 25px;
+  font-family: var(--font-roboto);
+  font-weight: 500;
+}
+
+.project {
+  width: 97%;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.projectItem {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background: #aebcd4;
+  background: linear-gradient(90deg, #19376d 97%, rgba(25, 55, 109, 0) 100%);
+  border-radius: 10px;
+  padding: 15px;
+}
+
+.projectItemDetails {
+  font-family: var(--font-roboto);
+}
+
+.projectItemDetails h3 {
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.projectItemDetails p {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.projectItemDetails ul {
+  list-style-position: inside;
+  font-size: 25px;
+  list-style-type: disc;
+  /* margin-left: 5px; */
+}
+.projectDetails{
+text-align: justify;
+}
+.demoLink {
+  color: #007bff; /* Link color */
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.demoLink:hover {
+  text-decoration: underline; /* Underline on hover */
+}
+
+
+@media screen and (max-width: 830px) {
+  .content {
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+  }
+
+  .project {
+    width: 100%;
+    gap: 5px;
+  }
+}

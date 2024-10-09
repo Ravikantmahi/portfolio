@@ -1,0 +1,34 @@
+[
+    {
+      "project": "E-Commerce Website",
+      "detail": [
+        "I developed a Web-based application featuring a Home page, Product page, Product category, Product details, and Shopping cart.",
+        "Technologies Used: HTML, CSS, JavaScript, Bootstrap"
+      ],
+      "demoLink": "https://de4985b8-208c-420a-9792-b09cae0e233f-00-8ewhoaqxib5p.pike.replit.dev/"
+    },
+    {
+        "project": "BI-Sathi",
+        "detail": [
+            "I worked on an Android-based Billing and Inventory Management System, enabling small shopkeepers to manage billing and inventory by scanning product barcodes. The app is available on the Google Play Store.",
+            "Technologies: XML, Java, Android Studio, Firebase."
+        ],
+        "demoLink": "https://play.google.com/store/apps/details?id=com.Project1.mygrocery&pcampaignid=web_share"
+    },
+    {
+        "project": "A Clinic Application",
+        "detail": [
+          "I developed a web-based application for a clinic where patients can schedule appointments. The application also allows users to ask questions without requiring signup or login. Additionally, it features a landing page with other relevant information.",
+          "Technologies Used: HTML, CSS, JavaScript, Bootstrap."
+        ],
+        "demoLink": "#"
+      },
+    {
+        "project": "Blood Bank Management System",
+        "detail": [
+            "I worked on the Blood Bank Management System, a web-based application enabling administrators to efficiently manage blood stock, donor details, seeker information, and overall blood bank operations.",
+            "Technologies: HTML, CSS, JavaScript, Node.js, MongoDB."
+        ],
+        "demoLink": "https://replit.com/@Ravikantmahi"
+    }
+]
