@@ -20,7 +20,7 @@
 }
 
 .title {
-  font-size: 72px;
+  font-size: 75px;
   font-weight: 900;
   margin-bottom: 33px;
   font-family: var(--font-roboto);
@@ -35,7 +35,7 @@
 
 .description {
   text-align: justify;
-  font-size: 30px;
+  font-size: 24px;
   font-family: var(--font-roboto);
   margin-bottom: 52px;
 }
@@ -45,7 +45,7 @@
   background-color: var(--color-primary);
   color: var(--color-text);
   border-radius: 100px;
-  font-size: 30px;
+  font-size: 24px;
   font-weight: 600;
   padding: 17px 26px;
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
@@ -54,7 +54,7 @@
 .heroImg {
   margin: 2%;
   padding-top: 15%;
-  width: 30%;
+  width: 25%;
   z-index: 1;
 
   animation-name: floating;
@@ -105,6 +105,7 @@
 
 @media screen and (max-width: 830px) {
   .container {
+    margin-top: 1%;
     flex-direction: column-reverse;
   }
 
@@ -112,13 +113,21 @@
     align-items: center;
   }
 
-  .title{
+  .title {
     text-align: center;
-    font-size: 60px;
+    margin-bottom: 2%;
+    font-size: 35px;
   }
 
-  .heroImg{
+  .heroImg {
+    margin: 2%;
     width: 80%;
-
+  }
+  .description {
+    font-size: 18px;
+    margin-bottom: 5%;
+  }
+  .contactBtn {
+    font-size: 20px;
   }
 }

@@ -22,7 +22,6 @@
   margin-top: 14px;
 }
 
-
 p {
   font-size: 25px;
   font-family: var(--font-roboto);
@@ -51,7 +50,7 @@ p {
 }
 
 .projectItemDetails h3 {
-  font-size: 30px;
+  font-size: 24px;
   font-weight: 500;
 }
 
@@ -62,12 +61,12 @@ p {
 
 .projectItemDetails ul {
   list-style-position: inside;
-  font-size: 25px;
+  font-size: 20px;
   list-style-type: disc;
   /* margin-left: 5px; */
 }
-.projectDetails{
-text-align: justify;
+.projectDetails {
+  text-align: justify;
 }
 .demoLink {
   color: #007bff; /* Link color */
@@ -79,16 +78,32 @@ text-align: justify;
   text-decoration: underline; /* Underline on hover */
 }
 
-
 @media screen and (max-width: 830px) {
   .content {
     flex-direction: column;
     align-items: center;
+    margin-left: 0;
     gap: 15px;
+  }
+
+  .title {
+    font-size: 28px;
+    font-weight: 500;
   }
 
   .project {
     width: 100%;
     gap: 5px;
+  }
+
+  .projectItemDetails h3 {
+    font-size: 22px;
+  }
+
+  .projectItemDetails p {
+    font-size: 16px;
+  }
+  .projectItemDetails ul {
+    font-size: 16px;
   }
 }

@@ -5,10 +5,19 @@
     "startDate": "August, 2024",
     "endDate": "September, 2024",
     "experiences": [
-      "Created and optimized digital graphics using Canva, Adobe, Figma.",
-      "Maintained cohesive, professional aesthetics across projects."
-    ],
-    "imageSrc": "history/google.png"
+      "Designed and optimized digital graphics using Canva, Adobe, and Figma.",
+      "Ensured consistent, professional aesthetics across all projects."
+    ]
+  },
+  {
+    "role": "Web Designer & Developer (Part-Time)",
+    "organisation": " NP TechCrafters",
+    "startDate": "August, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Developed responsive websites, focusing on user-friendly design and performance.",
+      "Helped create UI components."
+    ]
   },
   {
     "role": "Frontend Development Intern",
@@ -16,10 +25,9 @@
     "startDate": "February, 2024",
     "endDate": "August, 2024",
     "experiences": [
-      "Developed web applications' front-end with React.js and Node.js.",
-      "Enhanced educational tech skills via Moodle."
-    ],
-    "imageSrc": "history/microsoft.png"
+      "Built front-end components using React.js and Node.js for web applications.",
+      "Contributed to the development of Moodle-based educational platforms."
+    ]
   },
   {
     "role": "Web Development Intern",
@@ -27,10 +35,9 @@
     "startDate": "August, 2023",
     "endDate": "September, 2023",
     "experiences": [
-      "Worked on front-end development, creating responsive, dynamic web pages.",
-      "Helped create UI components"
-    ],
-    "imageSrc": "history/netflix.png"
+      "Developed dynamic, responsive web pages for improved user experience.",
+      "Assisted in creating reusable UI components for scalable applications."
+    ]
   },
   {
     "role": "Web Design Intern",
@@ -38,9 +45,8 @@
     "startDate": "July, 2023",
     "endDate": "August, 2023",
     "experiences": [
-      "Worked on web designing and acquired web design skills in layout, typography, and colors.",
-      "Developed prototypes, learning to create visually appealing, user-friendly interfaces."
-    ],
-    "imageSrc": "history/netflix.png"
+      "Gained expertise in web design fundamentals, including layout, typography, and color theory.",
+      "Created prototypes with a focus on visual appeal and user experience."
+    ]
   }
 ]
